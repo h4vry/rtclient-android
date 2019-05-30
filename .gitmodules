@@ -1,0 +1,3 @@
+[submodule "usb-serial-for-android"]
+	path = usb-serial-for-android
+	url = git@github.com:h4vry/usb-serial-for-android.git

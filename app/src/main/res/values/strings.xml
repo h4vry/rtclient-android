@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RT Client</string>
+    <string name="snoop">Snoop</string>
+    <string name="warn_snoop_in_progress">Snoop already in progress, stop it by pressing PM3 button</string>
+    <string name="err_proxmark_not_connected">Proxmark3 not connected</string>
+    <string name="action_start_snooping">Start snooping</string>
+    <string name="action_clear_trace_list">Clear trace list</string>
+    <string name="action_save_trace_to_file">Save trace to file</string>
+    <string name="toggle_autoscroll">Autoscroll</string>
+    <string name="info_snoop_started">Realtime snoop started, you can stop it with PM3 button</string>
+</resources>

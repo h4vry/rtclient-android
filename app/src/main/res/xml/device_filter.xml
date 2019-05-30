@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 9ac4:4b8f - Proxmark3 (new) -->
+    <usb-device vendor-id="39620" product-id="19343" />
+</resources>
